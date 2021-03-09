@@ -5,4 +5,4 @@
 {{ site.description }}
 
 [Email](mailto: {{ site.email }})  
-[Twitter](http://twitter.com/DanTBrady)
+[Twitter]( {{ site.twitter }} )
