@@ -1,4 +1,4 @@
-# My Research Project
+# {{ site.title }}
 
 ## Description
 
