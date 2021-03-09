@@ -15,3 +15,18 @@ are cause by two trailing spaces at the end of a line.
 - Software Carpentry
 - Data Carpentry
 - Library Carpentry
+
+## Another Second level heading
+[More text with a link](https://google.co.uk)
+
+~~Strikethrough text~~
+
+
+### Third level Heading number two
+
+1. Apples
+2. Oranges
+3. Pears
+4. Bananas
+
+![alt text](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png "Carpentries Logo")
