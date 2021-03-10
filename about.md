@@ -4,5 +4,4 @@
 
 {{ site.description }}
 
-[Email](mailto:{{ site.email }})  
-[Twitter]( {{ site.twitter }} )
+{% include contact.md %}
