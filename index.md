@@ -1,5 +1,8 @@
+---
 
-[![Group Website Banner](./images/site_banner.png)](index)
+---
+
+{% include banner.md %}
 
 # {{ site.title }}
 
