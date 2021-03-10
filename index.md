@@ -1,3 +1,6 @@
+
+![Group Website Banner](./images/site_banner.png)
+
 # {{ site.title }}
 
 ## Description
