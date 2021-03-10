@@ -1,6 +1,6 @@
-
-
-{% include banner.md %}
+---
+layout: page
+---
 
 # {{ site.title }}
 
