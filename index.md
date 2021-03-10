@@ -1,5 +1,5 @@
 
-![Group Website Banner](./images/site_banner.png)
+[![Group Website Banner](./images/site_banner.png)](index)
 
 # {{ site.title }}
 
