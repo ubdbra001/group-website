@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "Learning how to build websites with Jekyll"
 ---
 
 ## Description
@@ -8,7 +9,7 @@ layout: page
 
 
 {% assign lead = site.team_members | where: "role", "project lead" | first %}
-THe project is led by: {{ lead.name }}.
+THe project is led by: {{ lead.name }}.  
 See our full team [here](/about)
 
 
