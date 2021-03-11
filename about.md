@@ -7,5 +7,3 @@ layout: page
 ## Project
 
 {{ site.description }}
-
-{% include contact.md %}
