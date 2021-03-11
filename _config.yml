@@ -6,7 +6,7 @@ twitter: "http://twitter.com/DanTBrady"
 team_members: [
     {name: "Jane Smith", role: "maintainer", start_date: "2018-03-15"},
     {name: "Albert Hamilton", role: "editor", start_date: "2017-12-01"},
-    {name: "Tom Cat", role: "team lead", start_date: "2020-10-01"},
+    {name: "Tom Cat", role: "project lead", start_date: "2020-10-01"},
     {name: "Alice Dauncey", role: "developer", start_date: "2020-09-15"}
 ]
 
