@@ -13,7 +13,7 @@ See our full team [here](./about)
 
 ## Blogposts
 
-{% for post in site.posts %}
-- {{ post.date | date_to_string }}: [{{ post.title }}]({{ post.url }})
+{% for post in site.posts | sort: "date" %}
+- {{ post.date | date_to_string }} - {{ post.author }}
 
 {% endfor %}
