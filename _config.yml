@@ -13,3 +13,7 @@ team_members: [
 alumni: [
     {name: "Sarah Becker", role: "alumni", start_date: "2016-02-01"},
 ]
+
+collections:
+    - posts:
+        output: true
