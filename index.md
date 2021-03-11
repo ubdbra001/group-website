@@ -1,5 +1,5 @@
 ---
-layout: mistake
+layout: page
 ---
 
 # {{ site.title }}
