@@ -14,6 +14,6 @@ See our full team [here](./about)
 ## Blogposts
 
 {% for post in site.posts | sort: "title" %}
-- **{{ post.title }}** - {{ post.author }} ({{ post.date | date_to_string }})
+- [**{{ post.title }}** - {{ post.author }} ({{ post.date | date_to_string }})]({{ post.url }})
 
 {% endfor %}
