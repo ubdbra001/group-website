@@ -7,11 +7,12 @@ title: "Learning how to build websites with Jekyll"
 
 {{ site.description }}
 
-
 {% assign lead = site.team_members | where: "role", "project lead" | first %}  
 The project is led by: {{ lead.name }}.  
 See our full team [here](./about)
 
+## Blogposts
 
-
-[link to defaultTest](defaultTest)
+{% for post in site.posts %}
+- {{ post.date | date_to_string }}: [{{ post.title }}]({{ post.url }})
+{% endfor %}
