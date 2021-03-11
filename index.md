@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # {{ site.title }}
 
 ## Description
