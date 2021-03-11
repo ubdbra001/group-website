@@ -18,6 +18,6 @@ title: This page is all about me
 ## Alumni
 
 {% for alumnus in site.alumni %}
-- **Name:** {{ alumnus.name }}, **Role**: {{ alumnus.role }}
+- **Name:** {{ alumnus.name }}
  
 {% endfor %}
