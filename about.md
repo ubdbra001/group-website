@@ -10,5 +10,6 @@ title: This page is all about me
 ## Team
 
 {% for team_member in site.team_members %}
-- **Name:** {{ team_member.name }}, **Role**: {{ team_member.role }}  
+- **Name:** {{ team_member.name }}, **Role**: {{ team_member.role }}
+ 
 {% endfor %}
