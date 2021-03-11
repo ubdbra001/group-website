@@ -4,7 +4,9 @@ websites in GitHub with GitHub Pages."
 email: "team@carpentries.org"
 twitter: "http://twitter.com/DanTBrady"
 team_members: [
-	{name: "Sarah Becker", role: "project lead", start_date: "2016-02-01"},
-	{name: "Jane Smith", role: "maintainer", start_date: "2018-03-15"},
-	{name: "Albert Hamilton", role: "editor", start_date: "2017-12-01"},
+    {name: "Sarah Becker", role: "left", start_date: "2016-02-01"},
+    {name: "Jane Smith", role: "maintainer", start_date: "2018-03-15"},
+    {name: "Albert Hamilton", role: "editor", start_date: "2017-12-01"},
+    {name: "Tom Cat", role: "team lead ", start_date: "2020-10-01"},
+    {name: "Alice Dauncey", role: "developer", start_date: "2020-09-15"}
 ]
