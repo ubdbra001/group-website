@@ -1,8 +1,7 @@
 ---
 layout: page
+title: This page is all about me
 ---
-
-# This page is all about me
 
 ## Project
 
@@ -11,5 +10,5 @@ layout: page
 ## Team
 
 {% for team_member in site.team_members %}
-- **Name:** {{ team_member.name }}, **Role**: {{ teem_member.role }}
+- **Name:** {{ team_member.name }}, **Role**: {{ team_member.role }}  
 {% endfor %}
