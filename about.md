@@ -11,6 +11,5 @@ layout: page
 ## Team
 
 {% for team_member in site.team_members %}
-- **Name:** {{team_member.name}}
-- 
+- **Name:** {{ team_member.name }}, **Role**: {{ teem_member.role }}
 {% endfor %}
