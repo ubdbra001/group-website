@@ -9,7 +9,15 @@ title: This page is all about me
 
 ## Team
 
-{% for team_member in site.team_members | where_exp: "item", "item.role != 'alumni'" %}
+{% for team_member in site.team_members %}
 - **Name:** {{ team_member.name }}, **Role**: {{ team_member.role }}
+ 
+{% endfor %}
+
+
+## Alumni
+
+{% for alumnus in site.alumni %}
+- **Name:** {{ alumnus.name }}, **Role**: {{ alumnus.role }}
  
 {% endfor %}
